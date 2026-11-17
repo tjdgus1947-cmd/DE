@@ -1,0 +1,8 @@
+Log Summary (20261027)
+ERROR logs:
+[ERROR] Disk read failure
+[ERROR] Network timeout
+
+WARNING logs:
+[WARNING] Memory usage high
+[WARNING] CPU temperature warning
